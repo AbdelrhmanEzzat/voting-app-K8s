@@ -7,12 +7,12 @@ This project showcases the deployment of a highly available MongoDB replicaset a
 # You wanna your App like this   ⁉️ " just follow me 😉 "
 
 
-1. cd `` voting-app-deployment Folder``
+1. cd  **voting-app-deployment Folder**
 
 2. **Run**
 
-`` 
 
+``
    kubectl apply -f kubectl apply -f result-app-deploy.yaml
    kubectl apply -f kubectl apply -f voting-app-deploy.yaml
    kubectl apply -f kubectl apply -f worker-deploy.yaml
@@ -23,5 +23,4 @@ This project showcases the deployment of a highly available MongoDB replicaset a
    kubectl apply -f kubectl apply -f result-app-service.yaml
    kubectl apply -f kubectl apply -f voting-app-service.yaml
    kubectl apply -f kubectl apply -f postgres-service.yaml
-
 ``
