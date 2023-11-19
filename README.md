@@ -7,6 +7,9 @@ This project showcases the deployment of a highly available MongoDB replicaset a
 # The output result   ⁉️ " just follow me 😉 "
 
 
+https://github.com/AbdelrhmanEzzat/voting-app-K8s/assets/64223277/eb64db91-7ca7-4e34-9670-51e8b93e8bfe
+
+
 1. cd  **voting-app-deployment Folder**
 
 2. **Run**
