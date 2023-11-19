@@ -4,7 +4,7 @@ This project showcases the deployment of a highly available MongoDB replicaset a
 
 ![Alt text](architecture.png)
 
-# You wanna your App like this   ⁉️ " just follow me 😉 "
+# The output result   ⁉️ " just follow me 😉 "
 
 
 1. cd  **voting-app-deployment Folder**
