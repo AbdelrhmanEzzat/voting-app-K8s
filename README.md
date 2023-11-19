@@ -1,6 +1,5 @@
 # Voting app using K8s ( deployment & service ) 🎯
 
-This project showcases the deployment of a highly available MongoDB replicaset across three zones and a stateless Node.js web application interacting with the MongoDB replicas. The infrastructure is built using Terraform modules on Google Cloud Platform (GCP). Below are the details of the project components and how to deploy them.
 
 ![image](https://github.com/AbdelrhmanEzzat/voting-app-K8s/assets/64223277/3fcc630d-6e21-4f2a-a5e5-d7d248c13c1b)
 
